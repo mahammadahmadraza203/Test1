@@ -1,1 +1,1 @@
-Yes Yes Yes
+print("Mahammad")
